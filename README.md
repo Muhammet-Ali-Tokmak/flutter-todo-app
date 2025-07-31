@@ -2,4 +2,4 @@
 
 A Flutter project.
 
-A simple Flutter to-do app.
+A simple Flutter to-do app (test).
